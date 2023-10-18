@@ -1,11 +1,16 @@
-#########################
-# Full reference
-# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
-#########################
-
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+siteTitle: "News | S&P Homepage"
+cacheUrl: https://ehsanedalat.github.io/securitynews/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://portswigger.net/daily-swig/rss
+  - href: https://feeds.feedburner.com/TheHackersNews
+  - href: https://feeds.feedburner.com/securityweek
+  - href: https://www.cisa.gov/uscert/ncas/alerts.xml
+  - href: https://www.cisa.gov/uscert/ncas/analysis-reports.xml
+  - href: https://www.cisa.gov/uscert/ncas/bulletins.xml
+  - href: https://www.cisa.gov/uscert/ncas/current-activity.xml
+  - href: https://www.darkreading.com/rss.xml
+  - href: https://www.kb.cert.org/vuls/atomfeed/
+  - href: https://insights.sei.cmu.edu/blog/feeds/topic/certcc/atom/
+  - href: https://msrc-blog.microsoft.com/feed/
+  - href: https://www.schneier.com/feed/atom
+  - href: https://ubuntu.com/security/notices/rss.xml
