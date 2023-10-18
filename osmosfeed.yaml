@@ -1,5 +1,5 @@
 siteTitle: "News | S&P Homepage"
-cacheUrl: https://ehsanedalat.github.io/securitynews/cache.json
+cacheUrl: https://ehsanedalat.github.io/news/cache.json
 sources:
   - href: https://portswigger.net/daily-swig/rss
   - href: https://feeds.feedburner.com/TheHackersNews
